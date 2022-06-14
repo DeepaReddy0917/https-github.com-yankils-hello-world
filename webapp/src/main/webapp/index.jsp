@@ -16,7 +16,9 @@ h1,h2,h3,h4,h5,h6 {font-family:"Segoe UI",sans-serif}
 <h1>This is a Heading</h1>
 <p>This is a paragraph.</p>
 <p>This is a another paragraph.</p>
-
+<p><h1>Today is a Beautiful Day</h1></p>
+<p>Everyday is unique and does something beautiful</p>
+<p>Learning should never stop</p>
 </body>
 </html>
 
